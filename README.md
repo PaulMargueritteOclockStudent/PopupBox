@@ -1,15 +1,14 @@
 # PopUpBox
 
-## Ce projet est un PopUp, codée en HTML, CSS et JS. Le projet a été conçue pour afficher Un PopUp et de le faire disparaitre.
+## This project is a PopUpBox coded using HTML, CSS, and JS. The project is designed to display a popup and make it disappear.
 
+# Contents
+The PopUpBox includes the following elements:
 
-# Contenu
-
-## La PopUpBox comprend les éléments suivants :
-Un pop up
-Un formulaire email
-Comment utiliser ce projet
-Téléchargez ou clonez le dépôt
-
-
-
+Popup display
+Email input form
+How to Use this Project
+Download or clone the repository to your local machine.
+Open the index.html file in your web browser.
+Interact with the popup to make it appear and disappear.
+Use the email input form if necessary.
